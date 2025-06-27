@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DragonGym, Yo Local, etc**
 
-- 🌱 I’m currently learning **Flutter, Dart and**
+- 🌱 I’m currently learning **Flutter, Dart and APIS**
 
 - 💬 Ask me about **Web Development and Databases**
 
